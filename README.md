@@ -2,7 +2,7 @@
 
 ![profile picture](https://plain-eeur-prod-public.komododecks.com/202609/07/2sgwzxl9gbceJw9pRsFe/image.jpg)
 
-# Rohin
+## Rohin
 
 ## Education
 
