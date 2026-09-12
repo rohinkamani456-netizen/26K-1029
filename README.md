@@ -1,6 +1,6 @@
 # 26k-1029
 
-![profile picture] https://kommodo.ai/i/2sgwzxl9gbceJw9pRsFe
+![profile picture](https://kommodo.ai/i/2sgwzxl9gbceJw9pRsFe)
 
 # Rohin
 
